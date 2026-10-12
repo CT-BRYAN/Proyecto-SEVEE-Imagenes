@@ -96,7 +96,7 @@ export const candidatoData = [
     nombre: "OTTO SONNENHOLZNER",
     url: img("imagenes_presidentes/2023/OTTOSONNENHOLZNER_2023.png"),
     logo: img("logos_partidos_politicos/2023/ACTUEMOS_2023.png"),
-    color: "#FF5500", // NaranjaPartidoPolitico
+    color: "#FF5500", // NaranjaPartidoPolitico1
     nombrePartido: "AVANZA/SUMA",
     json: "AVANZA/SUMA",
   },
